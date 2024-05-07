@@ -1,3 +1,4 @@
+import About from "./components/home/About";
 import Banner from "./components/home/Banner";
 import GetStarted from "./components/home/GetStarted";
 import Footer from "./components/shared/Footer";
@@ -8,6 +9,7 @@ const App = () => {
     <div>
       <Navbar />
       <Banner />
+      <About />
       <GetStarted />
       <Footer />
     </div>

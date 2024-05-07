@@ -13,6 +13,7 @@ export default {
         border: "#D8DBE0",
         purple: "#924FF8",
         red: "#DB352F",
+        blue: "#475BF1",
         textGrey: "#667687",
         textDarkGrey: "#7A8B99",
         sky: "#3AD7DC",
