@@ -13,6 +13,12 @@ const Banner = () => {
                     </div>
                 </div>
             </div>
+
+            {/* this is coleborating div  */}
+            <div className='py-20 flex items-start gap-5'>
+                <h2 className="text-lg pt-4 font-bold text-dark">Collaborating Closely With</h2>
+                <img src="/assets/logos.png" alt="" />
+            </div>
         </div>
     );
 };

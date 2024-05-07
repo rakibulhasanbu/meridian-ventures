@@ -18,7 +18,8 @@ export default {
         sky: "#3AD7DC",
       },
       backgroundImage: {
-        "bannerBg": "url('/assets/banner.png')"
+        "bannerBg": "url('/assets/banner.png')",
+        "btnBg": "url('/assets/bg-btn.png')",
       },
       container: {
         center: true
