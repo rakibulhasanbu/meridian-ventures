@@ -21,6 +21,8 @@ export default {
       backgroundImage: {
         "bannerBg": "url('/assets/banner.png')",
         "btnBg": "url('/assets/bg-btn.png')",
+        "serviceBg": "url('/assets/our services.png')",
+        "teamBg": "url('/assets/DREAM Team.png')",
       },
       container: {
         center: true

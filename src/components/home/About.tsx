@@ -13,6 +13,7 @@ const About = () => {
                 </div>
                 <img src="/assets/about.png" alt="" className="h-[90%] object-cover my-auto" />
             </div>
+
             <div className='space-y-10 '>
                 <p className="text-sm uppercase text-textGrey font-bold">why choose us</p>
                 <h2 className="text-dark font-bold text-5xl capitalize"> chosen By <br /> the Meridian Finance DAO</h2>
